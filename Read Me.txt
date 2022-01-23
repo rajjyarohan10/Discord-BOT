@@ -1,7 +1,6 @@
 Organized for Github
 
-Cleaning up the code for Dr. Raidul Islam and for an opportunity in product 
-development
+This code has been cleaned up for Github push
 
 All of these codes are brought in from repl.it where I host the BOT
 
